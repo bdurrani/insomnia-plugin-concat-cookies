@@ -50,11 +50,6 @@ const templateTags = [
       const final = result.join(seperator);
       console.log(final);
       return final;
-      // const cookie = cookieJar.cookies.find(
-      //   (cookie) => cookie.domain == cookieDomain && cookie.key == cookieName
-      // );
-
-      // return cookie ? cookie.value : null;
     },
   },
 ];

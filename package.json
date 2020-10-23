@@ -4,7 +4,7 @@
   "description": "Template tag to insert cookie key-value pairs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "insomnia": {
     "name": "concat-cookies",
@@ -19,7 +19,9 @@
       "cli": "*"
     }
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cookies"
+  ],
+  "author": "Bilal Durrani",
   "license": "ISC"
 }
