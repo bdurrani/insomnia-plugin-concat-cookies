@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-concat-cookies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Template tag to insert cookie key-value pairs",
   "main": "index.js",
   "scripts": {

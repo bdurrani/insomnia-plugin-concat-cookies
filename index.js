@@ -38,7 +38,7 @@ const templateTags = [
         workspace
       );
 
-      console.log(JSON.stringify(cookieKeys));
+      // console.log(JSON.stringify(cookieKeys));
       const result = [];
       for (const cookie of cookieJar.cookies) {
         const key = cookie.key.trim();
